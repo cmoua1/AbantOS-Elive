@@ -89,7 +89,7 @@ There are a few documentations that will help solve any problems we encounter du
 ## Import Upstream
 
 
-    1. First, create the first version of a package, outside of Git. Once it done, you can import the package using the import-dsc command.
+    1. First, create the first version of a package, outside of Git. Once it is done, you can import the package using the import-dsc command.
 
 ~~~shell
     $ gbp import-dsc /path/to/package_0.1-1.dsc
